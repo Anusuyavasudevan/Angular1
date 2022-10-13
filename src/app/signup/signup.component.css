@@ -1,0 +1,26 @@
+#sign{
+    text-align: center;
+    margin-top: 40px;
+    color: deeppink;
+    font-family: sans-serif;
+}
+
+#fn{
+    text-align: center;
+    margin-top: 35px;
+}
+
+#ln{
+    text-align: center;
+    margin-top: 35px;
+}
+
+#pwd2{
+    text-align: center;
+    margin-top: 35px;
+}
+
+#btn2{
+    text-align: center;
+    margin-top: 60px;
+}
